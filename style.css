@@ -1,11 +1,16 @@
 body{
 /*  background-color: brown;*/
-  background-image:url("NepMuis2.png"),linear-gradient(to bottom right,#FFFDD0, #95C8D8);
+/*  background-image:url("NepMuis2.png"),linear-gradient(to bottom right,#FFFDD0, #95C8D8);*/
   font-family: "Arial Black", Gadget, sans-serif;
+/*  background-size: cover;
+  text-align: justify;*/
+  color: black;
+}
+
+html{
+  background-image:url("NepMuis2.png"),linear-gradient(to bottom right,#FFFDD0, #95C8D8);
   background-repeat: round;
   background-size: cover;
-  text-align: justify;
-  color: black;
 }
 
 h1{
