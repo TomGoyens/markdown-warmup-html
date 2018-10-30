@@ -1,0 +1,30 @@
+body{
+/*  background-color: brown;*/
+  background-image:url("NepMuis2.png"),linear-gradient(to bottom right,#FFFDD0, #95C8D8);
+  font-family: "Arial Black", Gadget, sans-serif;
+  background-repeat: round;
+  background-size: cover;
+  text-align: justify;
+  color: black;
+}
+
+.box{
+  border: 5px dashed #FD6A02;
+}
+
+.note{
+  color: red;
+  text-decoration: underline;
+  text-align: center;
+}
+.footer{
+  font-style: italic;
+}
+
+.nest1{
+
+}
+
+.nest2{
+  color: #FD6A02;
+}
