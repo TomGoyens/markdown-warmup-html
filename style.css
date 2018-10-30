@@ -11,6 +11,7 @@ html{
   background-image:url("NepMuis2.png"),linear-gradient(to bottom right,#FFFDD0, #95C8D8);
   background-repeat: round;
   background-size: cover;
+  height: 100%;
 }
 
 h1{
