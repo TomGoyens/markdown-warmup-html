@@ -8,8 +8,24 @@ body{
   color: black;
 }
 
+h1{
+  text-align: center;
+}
+
 .box{
-  border: 5px dashed #FD6A02;
+  border: 4px dashed #FD6A02;
+  outline: dashed;
+  outline-offset: 2px;
+  outline-width: 3px;
+  padding-right: 5px;
+}
+
+.nest1{
+  style: red;
+}
+
+.nest2{
+  color: #FD6A02;
 }
 
 .note{
@@ -19,12 +35,5 @@ body{
 }
 .footer{
   font-style: italic;
-}
-
-.nest1{
-
-}
-
-.nest2{
-  color: #FD6A02;
+    opacity: 0.5;
 }
