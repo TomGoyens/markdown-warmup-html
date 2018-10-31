@@ -4,7 +4,7 @@ body{
   font-family: "Arial Black", Gadget, sans-serif;
 /*  background-size: cover;
   text-align: justify;*/
-  color: black;
+  color: #000;
 }
 
 html{
@@ -26,20 +26,16 @@ h1{
   padding-right: 5px;
 }
 
-.nest1{
-
-}
-
 .nest2{
   color: #FD6A02;
 }
 
 .note{
-  color: red;
+  color: #F00;
   text-decoration: underline;
   text-align: center;
 }
 .footer{
   font-style: italic;
-    opacity: 0.5;
+  opacity: 0.5;
 }
